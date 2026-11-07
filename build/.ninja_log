@@ -1,0 +1,6 @@
+# ninja log v5
+0	8	0	/home/ubuntu/cpp-generator/workspace/rate-limiter/build/CMakeFiles/cmake.verify_globs	7c35055d32b0e620
+8	787	1794018066701751646	CMakeFiles/rate_limiter.dir/src/main.cpp.o	3d9cc03ef2d500c8
+8	817	1794018066732752629	CMakeFiles/unit_tests.dir/tests/test.cpp.o	f503bda99944302e
+787	833	1794018066748032809	rate_limiter	eca0e677ad2b69b0
+817	862	1794018066776435654	unit_tests	a43e7a7a00835c27
